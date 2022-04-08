@@ -10,7 +10,7 @@ Estimated number of species extinction since the year 1500. Due to incomplete co
 
 - [Database `.csv`](https://github.com/fblpalmeira/number_of_extinctions/blob/main/extinct-species-since-1500.csv)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/number_of_extinctions/blob/main/30daychallenge_day6.png">
 
 Reference: 
 
