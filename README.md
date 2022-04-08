@@ -4,7 +4,7 @@
 
 ## How many species have gone extinct since 1500? 
 
-Estimated number of species extinction since the year 1500. Due to incomplete coverage of known species, this is likely to be an underestimate of the true number of species that have gone extinct. Source: [OWD](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
+Estimated number of species extinction since the year 1500. Due to incomplete coverage of known species, this is likely to be an underestimate of the true number of species that have gone extinct. Source: [OWID](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
 
 - [Script `.R`](https://github.com/fblpalmeira/number_of_extinctions/blob/main/30daychallenge_day6.R)
 
@@ -14,4 +14,4 @@ Estimated number of species extinction since the year 1500. Due to incomplete co
 
 Reference: 
 
-[How many species have gone extinct?](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
+[OWID: How many species have gone extinct?](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
