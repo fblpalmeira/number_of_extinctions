@@ -14,4 +14,4 @@ Estimated number of species extinction since the year 1500. Due to incomplete co
 
 Reference: 
 
-[OWID: How many species have gone extinct?](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
+[How many species have gone extinct?(OWID)](https://ourworldindata.org/extinctions). Data published by (IUCN Red List).
