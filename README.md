@@ -8,7 +8,7 @@ Estimated number of species extinction since the year 1500. Due to incomplete co
 
 - [Script `.R`]()
 
-- [Database `.csv`]()
+- [Database `.csv`](https://github.com/fblpalmeira/number_of_extinctions/blob/main/extinct-species-since-1500.csv)
 
 <img src="">
 
