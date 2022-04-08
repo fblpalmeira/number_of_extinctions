@@ -6,7 +6,7 @@
 
 Estimated number of species extinction since the year 1500. Due to incomplete coverage of known species, this is likely to be an underestimate of the true number of species that have gone extinct. Data published by (IUCN Red List). Source: [OWD](https://ourworldindata.org/extinctions).
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/number_of_extinctions/blob/main/30daychallenge_day6.R)
 
 - [Database `.csv`](https://github.com/fblpalmeira/number_of_extinctions/blob/main/extinct-species-since-1500.csv)
 
